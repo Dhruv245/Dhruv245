@@ -94,6 +94,54 @@ Here are some of the technologies and tools I've worked with:
 - **Website:** [Techsteck Solutions](https://techsteck.com)
 
 ---
+<br>
+
+## Hackathon Builds
+
+### 🚀 Hackathon 1: [Nibiru Hackathon](https://dorahacks.io/buidl/13870)
+- [Dorahack Result](https://x.com/nibiruchain/status/1809381527069102235?s=46)
+
+---
+
+### 🌐 Hackathon 2: [Coinstore Labs - UBIT Hackathon](https://dorahacks.io/buidl/13975)
+- [Result](https://dorahacks.io/hackathon/coinstorelabs-ubit-hackathon/results)
+
+---
+
+### 🏆 Hackathon 3: [BNB Chain Hackathon](https://dorahacks.io/buidl/15626)
+- [Result](https://x.com/BNBCHAIN/status/1841553750093398087/photo/1)
+
+---
+
+### 💡 Hackathon 4: [BNB Chain Hackathon (Project 2)](https://dorahacks.io/buidl/14964/)
+- [Result](https://x.com/BNBCHAIN/status/1841553750093398087/photo/1)
+
+---
+
+### 💻 Hackathon 5: [Coinstore Labs Hackathon](https://dorahacks.io/buidl/13975)
+- [Result](https://x.com/CoinstoreExc/status/1839249552127439128)
+
+---
+
+### ⚙️ Hackathon 6: [Coinstore Hackathon - Another Build](https://dorahacks.io/buidl/16330/)
+- [Result](https://x.com/CoinstoreExc/status/1839249552127439128)
+
+---
+
+### 🛠 Hackathon 7: [BNB Chain Hackathon - Second Entry](https://dorahacks.io/buidl/15626)
+- [Result](https://x.com/CoinstoreExc/status/1839249552127439128)
+
+---
+
+### 🎯 Hackathon 8: [BoostXFi Utility Hackathon](https://dorahacks.io/buidl/16665)
+- [Result](https://dorahacks.io/hackathon/boostxfiutility/winners-results)
+
+---
+
+### 🎨 Hackathon 9: Pixel Forge - Olympus Hackathon
+- [Result](https://movementlabs.notion.site/Olympus-Hackathon-Finalists-588d4533f53a4a32b0a67f7cb9846452)
+
+<br>
 
 Thanks for checking out Dhruv's profile!
 
@@ -107,7 +155,6 @@ Thanks for checking out Dhruv's profile!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-username&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
 ## ✍ Random Dev Quote
 
