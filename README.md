@@ -1,12 +1,13 @@
-# Hi there! 👋
+---
+
+# Welcome to Techsteck Solutions! 👋
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=0A93E2&background=FF000000&width=435&lines=Hello%2C+I'm+Dhruv+Jain;Blockchain+Developer;Building+fast+APIs+on+Solana+%F0%9F%92%BB;Keen+to+Learn+and+Contribute..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=0A93E2&background=FF000000&width=435&lines=Hello%2C+I'm+Dhruv+Jain;CEO+of+Techsteck+Solutions;Leading+Innovative+Tech+Projects;Empowering+Businesses+with+Technology..." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-I'm **Dhruv Jain**, a passionate Blockchain Developer specializing in building performant Solana-based APIs and decentralized solutions. With a keen interest in improving systems and pushing the boundaries of blockchain technology, I focus on delivering scalable, secure, and innovative solutions to real-world problems.
-
+I'm Dhruv Jain, the CEO of ![Techsteck Solutions](https://techsteck.com/), where we specialize in providing cutting-edge technology solutions across various sectors. Our expertise spans blockchain development, mobile app development, and web development, ensuring that we meet our clients' diverse needs with the latest technologies.
 </div>
 
 ---
@@ -15,20 +16,20 @@ I'm **Dhruv Jain**, a passionate Blockchain Developer specializing in building p
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
-- 🏢 Currently working on a **Solana-based Trading Platform** for **[Techsteck Solutions](https://techsteck.com/)**.
-- 🧑‍💻 Implementing fast **Buy/Sell APIs**, **Wallet Creation**, **Charts**, **Trading History**, and enhancing **Portfolio** and **Trending APIs**.
+As the leader of Techsteck Solutions, I am dedicated to fostering innovation and driving our team to deliver exceptional services in:
 
-- 🚀 Working with custom **Solana RPC Nodes** for performance optimization.
+- **Blockchain Development**: From smart contracts to decentralized applications, we harness blockchain technology to solve complex problems.
 
-- ⚡ POC is powered by an **AWS c5.9xlarge** instance for performance benchmarking.
+- **Mobile App Development**: We create intuitive and robust mobile applications that enhance user experiences across platforms.
 
-- 💼 Always open to contributing to innovative blockchain solutions and improving API performance in decentralized ecosystems.
+- **Web Development**: Our team builds dynamic websites and applications tailored to meet business goals and engage users effectively.
+</br>
+--- 
+</br>
 
----
+## 🚀 Our Skills and Expertise
 
-## 🚀 Skills and Expertise
-
-Here are some of the technologies and tools I've worked with:
+We work with a wide range of technologies, ensuring flexibility and adaptability for our projects:
 
 **Programming Languages ⛰️**
 
@@ -144,6 +145,7 @@ Here are some of the technologies and tools I've worked with:
 <br>
 
 Thanks for checking out Dhruv's profile!
+At Techsteck Solutions, we are committed to delivering high-quality, innovative solutions that empower businesses and drive growth in the digital era. Let’s collaborate and build the future together!
 
 <!-- [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-username)](https://github.com/dhruv-username/github-readme-stats) -->
 
