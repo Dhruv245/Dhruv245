@@ -73,31 +73,16 @@ We work with a wide range of technologies, ensuring flexibility and adaptability
 
 ---
 
-## 🌟 My Projects
-
-### 1. **Solana Trading Platform (Techsteck Solutions)**
-
-- **Description:** Developing fast, scalable APIs for Buy/Sell operations, Wallet creation, Trading history, and Portfolio management.
-- **Stack:** Solana, Rust, AWS, Node.js, MongoDB
-- **Highlights:** Custom Solana RPC node for performance, AWS infrastructure for scalability, and enhanced API performance.
-
-### 2. **Solana POC with AWS c5.9xlarge**
-
-- **Description:** Performance benchmarking of Solana RPC nodes on AWS, optimizing transaction throughput, and ensuring API scalability.
-- **Stack:** Solana, Rust, AWS EC2
-
----
-
 ## 📫 Get in Touch
 
-- **Email:** dhruv.jain@example.com
-- **LinkedIn:** [Dhruv Jain](https://linkedin.com/in/dhruv-jain-xyz)
+- **Email:** dhruv@techsteck.com
+- **LinkedIn:** [Dhruv Jain](https://linkedin.com/in/dhruv245)
 - **Website:** [Techsteck Solutions](https://techsteck.com)
 
 ---
 <br>
 
-## Hackathon Builds
+## Winnings on Hackathons
 
 ### 🚀 Hackathon 1: [Nibiru Hackathon](https://dorahacks.io/buidl/13870)
 - [Dorahack Result](https://x.com/nibiruchain/status/1809381527069102235?s=46)
@@ -143,6 +128,21 @@ We work with a wide range of technologies, ensuring flexibility and adaptability
 - [Result](https://movementlabs.notion.site/Olympus-Hackathon-Finalists-588d4533f53a4a32b0a67f7cb9846452)
 
 <br>
+
+## 🌟 My Projects
+
+### 1. **Solana Trading Platform (Techsteck Solutions)**
+
+- **Description:** Developing fast, scalable APIs for Buy/Sell operations, Wallet creation, Trading history, and Portfolio management.
+- **Stack:** Solana, Rust, AWS, Node.js, MongoDB
+- **Highlights:** Custom Solana RPC node for performance, AWS infrastructure for scalability, and enhanced API performance.
+
+### 2. **Solana POC with AWS c5.9xlarge**
+
+- **Description:** Performance benchmarking of Solana RPC nodes on AWS, optimizing transaction throughput, and ensuring API scalability.
+- **Stack:** Solana, Rust, AWS EC2
+
+---
 
 Thanks for checking out Dhruv's profile!
 At Techsteck Solutions, we are committed to delivering high-quality, innovative solutions that empower businesses and drive growth in the digital era. Let’s collaborate and build the future together!
