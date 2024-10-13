@@ -131,7 +131,7 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
 
 ## 🌟 My Projects
 
-### 1. **Solana Trading Platform (Techsteck Solutions)**
+### 1. **Solana Trading Platform**
 
 - **Description:** Developing fast, scalable APIs for Buy/Sell operations, Wallet creation, Trading history, and Portfolio management.
 - **Stack:** Solana, Rust, AWS, Node.js, MongoDB
@@ -144,9 +144,6 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
 
 ---
 
-Thanks for checking out Dhruv's profile!
-At Techsteck Solutions, we are committed to delivering high-quality, innovative solutions that empower businesses and drive growth in the digital era. Let’s collaborate and build the future together!
-
 <!-- [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-username)](https://github.com/dhruv-username/github-readme-stats) -->
 
 **Github-Stats**
@@ -158,11 +155,3 @@ At Techsteck Solutions, we are committed to delivering high-quality, innovative 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv245&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## ✍ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<!-- ### 😂 Random Dev Meme
-(<img src="https://random-memer.herokuapp.com/" width="512px"/>) -->
-
-### Show some ❤️ by starring some of the repositories!
