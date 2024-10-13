@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=0A93E2&background=FF000000&width=435&lines=Hello%2C+I'm+Dhruv+Jain;Leading+Innovative+Tech+Projects;Empowering+Businesses+with+Technology..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=0A93E2&background=FF000000&width=435&lines=Hello%2C+I'm+Dhruv+Jain;Leading+Innovative+Tech+Projects;Empowering+Business+with+Technology..." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
