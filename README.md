@@ -1,13 +1,12 @@
 ---
 
-# Welcome to Techsteck Solutions! 👋
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=0A93E2&background=FF000000&width=435&lines=Hello%2C+I'm+Dhruv+Jain;CEO+of+Techsteck+Solutions;Leading+Innovative+Tech+Projects;Empowering+Businesses+with+Technology..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=0A93E2&background=FF000000&width=435&lines=Hello%2C+I'm+Dhruv+Jain;Leading+Innovative+Tech+Projects;Empowering+Businesses+with+Technology..." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-I'm Dhruv Jain, the CEO of ![Techsteck Solutions](https://techsteck.com/), where we specialize in providing cutting-edge technology solutions across various sectors. Our expertise spans blockchain development, mobile app development, and web development, ensuring that we meet our clients' diverse needs with the latest technologies.
+I'm Dhruv Jain, I specialize in providing cutting-edge technology solutions across various sectors. My expertise spans blockchain development, mobile app development, and web development, ensuring that I meet my clients' diverse needs with the latest technologies.
 </div>
 
 ---
@@ -16,20 +15,20 @@ I'm Dhruv Jain, the CEO of ![Techsteck Solutions](https://techsteck.com/), where
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
-As the leader of Techsteck Solutions, I am dedicated to fostering innovation and driving our team to deliver exceptional services in:
+ I am dedicated to fostering innovation and driving our team to deliver exceptional services in:
 
-- **Blockchain Development**: From smart contracts to decentralized applications, we harness blockchain technology to solve complex problems.
+- **Blockchain Development**: From smart contracts to decentralized applications, I harness blockchain technology to solve complex problems.
 
-- **Mobile App Development**: We create intuitive and robust mobile applications that enhance user experiences across platforms.
+- **Mobile App Development**: I create intuitive and robust mobile applications that enhance user experiences across platforms.
 
-- **Web Development**: Our team builds dynamic websites and applications tailored to meet business goals and engage users effectively.
+- **Web Development**: I build dynamic websites and applications tailored to meet business goals and engage users effectively.
 </br>
 --- 
 </br>
 
-## 🚀 Our Skills and Expertise
+## 🚀 My Skills and Expertise
 
-We work with a wide range of technologies, ensuring flexibility and adaptability for our projects:
+I work with a wide range of technologies, ensuring flexibility and adaptability for our projects:
 
 **Programming Languages ⛰️**
 
@@ -75,9 +74,10 @@ We work with a wide range of technologies, ensuring flexibility and adaptability
 
 ## 📫 Get in Touch
 
-- **Email:** dhruv@techsteck.com
-- **LinkedIn:** [Dhruv Jain](https://linkedin.com/in/dhruv245)
-- **Website:** [Techsteck Solutions](https://techsteck.com)
+- **Email:** dhruvjain5000@gmail.com
+- **Telegram:** https://t.me/Dhruv245
+
+
 
 ---
 <br>
