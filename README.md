@@ -74,7 +74,7 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
 
 ## 📫 Get in Touch
 
-- **Email:** dhruvjain5000@gmail.com
+- **Email:** dhruvjainman@gmail.com
 - **Telegram:** https://t.me/Dhruv245
 
 
