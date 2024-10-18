@@ -15,8 +15,6 @@ I'm Dhruv Jain, I specialize in providing cutting-edge technology solutions acro
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
- I am dedicated to fostering innovation and driving our team to deliver exceptional services in:
-
 - **Blockchain Development**: From smart contracts to decentralized applications, I harness blockchain technology to solve complex problems.
 
 - **Mobile App Development**: I create intuitive and robust mobile applications that enhance user experiences across platforms.
