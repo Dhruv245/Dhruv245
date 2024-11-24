@@ -125,6 +125,10 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
 ### 🎨 Hackathon 9: Pixel Forge - Olympus Hackathon
 - [Result](https://movementlabs.notion.site/Olympus-Hackathon-Finalists-588d4533f53a4a32b0a67f7cb9846452)
 
+---
+
+### 🎨 Hackathon 10: CrossX - [Equitos Hackathon](https://dorahacks.io/buidl/16570)
+- [Result](https://t.me/EquitoNetwork/33633)
 <br>
 
 ## 🌟 My Projects
