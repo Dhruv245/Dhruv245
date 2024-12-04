@@ -129,6 +129,12 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
 
 ### 🎨 Hackathon 10: CrossX - [Equitos Hackathon](https://dorahacks.io/buidl/16570)
 - [Result](https://t.me/EquitoNetwork/33633)
+  
+---
+
+### 🎨 Hackathon 11: CrossX - [Chain Abstraction Hackathon](https://www.encode.club/chain-abstraction-hackathon) - AssetLinks
+- [Result](https://discord.com/channels/705799923014041651/1264888439929569280/1311284134752030752)
+  
 <br>
 
 ## 🌟 My Projects
