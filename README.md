@@ -137,28 +137,10 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
   
 <br>
 
-## 🌟 My Projects
 
-### 1. **Solana Trading Platform**
-
-- **Description:** Developing fast, scalable APIs for Buy/Sell operations, Wallet creation, Trading history, and Portfolio management.
-- **Stack:** Solana, Rust, AWS, Node.js, MongoDB
-- **Highlights:** Custom Solana RPC node for performance, AWS infrastructure for scalability, and enhanced API performance.
-
-### 2. **Solana POC with AWS c5.9xlarge**
-
-- **Description:** Performance benchmarking of Solana RPC nodes on AWS, optimizing transaction throughput, and ensuring API scalability.
-- **Stack:** Solana, Rust, AWS EC2
-
----
 
 <!-- [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-username)](https://github.com/dhruv-username/github-readme-stats) -->
 
-**Github-Stats**
-
-   <div align="center">
-
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv245&show_icons=true&theme=cobalt) [![GitHub Streak](https://streak-stats.demolab.com/?user=Dhruv245&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv245&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
