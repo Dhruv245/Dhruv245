@@ -142,6 +142,5 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
 <!-- [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-username)](https://github.com/dhruv-username/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv245&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
