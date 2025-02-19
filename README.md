@@ -152,7 +152,7 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
 
 ---
 
-### 🎨 Hackathon 15: CrossX - [BNB Hackathon](https://dorahacks.io/buidl/21092) Chainchirp
+### 🎨 Hackathon 15: Chainchirp - [BNB Hackathon](https://dorahacks.io/buidl/21092) 
 - [Result](https://dorahacks.io/hackathon/bnbhack-q4-2024/winner)
 
  
