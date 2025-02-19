@@ -132,9 +132,30 @@ I work with a wide range of technologies, ensuring flexibility and adaptability 
   
 ---
 
-### 🎨 Hackathon 11: CrossX - [Chain Abstraction Hackathon](https://www.encode.club/chain-abstraction-hackathon) - AssetLinks
+### 🎨 Hackathon 11: AssetLinks - [Chain Abstraction Hackathon](https://www.encode.club/chain-abstraction-hackathon) 
 - [Result](https://discord.com/channels/705799923014041651/1264888439929569280/1311284134752030752)
-  
+
+---
+
+### 🎨 Hackathon 12: DoubtEarn - [BNB Hackathon](https://dorahacks.io/buidl/21088)
+- [Result](https://dorahacks.io/hackathon/bnbhack-q4-2024/winner)
+
+---
+
+### 🎨 Hackathon 13: YieldX (EDU Chain Semester 2 Hackathon)
+- [Result](https://medium.com/edu-chain/announcing-the-winners-of-edu-chain-hackathon-semester-2-4129c413ed42)
+    
+---
+
+### 🎨 Hackathon 14: Techsteck(EDU Chain Semester 2 Hackathon)
+- [Result](https://medium.com/edu-chain/announcing-the-winners-of-edu-chain-hackathon-semester-2-4129c413ed42)
+
+---
+
+### 🎨 Hackathon 15: CrossX - [BNB Hackathon](https://dorahacks.io/buidl/21092) Chainchirp
+- [Result](https://dorahacks.io/hackathon/bnbhack-q4-2024/winner)
+
+ 
 <br>
 
 
